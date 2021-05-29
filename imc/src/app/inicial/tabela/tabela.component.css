@@ -1,0 +1,14 @@
+table {
+    width: 500px;
+    height: 300px;
+}
+
+h2 {
+    text-align: center;
+}
+    
+.titulo {
+    font-size: 15px ;
+    background-color: #3F51B5;
+    color: #fff;
+}

@@ -1,0 +1,19 @@
+.example-form-field {
+    width: 100px;
+  }
+
+.resultado {
+    margin-left: 50px;
+}
+
+.botao {
+  margin: 10px 0;
+}
+
+.imc {
+  margin-top: 40px;
+  font-size: 20px;
+  color: #3F51B5;
+  font-weight: 500;
+  width: 170px;
+}
